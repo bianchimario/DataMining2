@@ -24,3 +24,6 @@ Tasks of the project:
 - Transactional Clustering: By using categorical features, or by turning a dataset with continuous variables into a dataset with categorical variables (e.g. by using binning), run at least one clustering algorithm presented in the transactional clustering lectures (e.g. K-Modes, ROCK). Discuss the results that you find analyzing the clusters and reporting external validation measures (e.g SSE, silhouette).
 ### Module 5 - Explainability (optional)
 - Try to use one or more explanation methods (e.g., LIME, LORE, SHAP, etc.) to illustrate the reasons for the classification in one of the steps of the previous tasks.
+
+
+Progetto svolto in collaborazione con Alessandro Vavalà e Giuseppe Milazzo.
