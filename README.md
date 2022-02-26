@@ -1,4 +1,6 @@
 # DataMining2
+**Progetto svolto in collaborazione con Alessandro Vavalà e Giuseppe Milazzo**
+
 Data Mining: Advanced Topics and Applications
 
 Tasks of the project:
@@ -26,4 +28,4 @@ Tasks of the project:
 - Try to use one or more explanation methods (e.g., LIME, LORE, SHAP, etc.) to illustrate the reasons for the classification in one of the steps of the previous tasks.
 
 
-**Progetto svolto in collaborazione con Alessandro Vavalà e Giuseppe Milazzo.**
+
